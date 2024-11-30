@@ -8,6 +8,7 @@ local PermanentPortcrystals = {
 	-- TODO: havent found these for testing yet
 	-- "", -- Sacred Arbor
 	-- "", -- Seafloor Shrine
+	-- "", -- Agamen Volcanic Island
 }
 
 math.randomseed(os.time())
@@ -64,7 +65,7 @@ sdk.hook(
 		local type_info = {
 			-- [1] = { name = "None", chance = 0.0 },
 			[2] = { name = "Gather", chance = 0.03 },
-			[4] = { name = "TreasureBox", chance = 0.20 },
+			[4] = { name = "TreasureBox", chance = 0.15 },
 			[8] = { name = "Talk", chance = 0.15 },
 			[16] = { name = "DeadEnemy", chance = 0.05 }
 		}
