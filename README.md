@@ -25,7 +25,7 @@ Configurable in the REFramework script settings gui.
 
 ## Installation
 
-Install with Fluffy Mod Manager as usual
+Install with [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) as usual
 
 
 ## Known Issues
