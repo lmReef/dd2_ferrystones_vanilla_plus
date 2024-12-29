@@ -2,13 +2,12 @@ local ItemManager = sdk.get_managed_singleton("app.ItemManager")
 local CharacterManager = sdk.get_managed_singleton("app.CharacterManager")
 
 local PermanentPortcrystals = {
-	"(458.811,32.915,-1012.04)", -- Vernworth
+	"(458.811,32.915,-1012.04)",  -- Vernworth
 	"(-456.106,2.0164,-608.048)", -- Harve Village
 	"(-1445.05,107.486,394.835)", -- Bakbattahl
-	-- TODO: havent found these for testing yet
-	-- "", -- Sacred Arbor
-	-- "", -- Seafloor Shrine
-	-- "", -- Agamen Volcanic Island
+	"(-490.768,-16.3092,-232.895)", -- Seafloor Shrine
+	"(-555.132, 117.652, -2257.69)", -- Sacred Arbor
+	"(-894.818,-15.0159,814.869)", -- Agamen Volcanic Island
 }
 
 local function get_default_config()

@@ -29,5 +29,4 @@ Install with [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) as us
 
 
 ## Known Issues
-- Doesn't work with the Unmoored World specific permanent portcrystals as I haven't reached them for testing yet. I will add them when I can.
 - Mods that give ferrystones unlimited uses will result in extra ferrystones being added to your inventory when teleporting to one the the permanent portcrystals
