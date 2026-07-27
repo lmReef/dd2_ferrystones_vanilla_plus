@@ -15,22 +15,22 @@ local function get_default_config()
 		ferrystone_drop_rates = {
 			["Gather"] = {
 				enabled = true,
-				chance = 0.03,
+				chance = 0.02,
 			},
 			["DeadEnemy"] = {
 				enabled = true,
-				chance = 0.05,
+				chance = 0.02,
 			},
 			["TreasureBox"] = {
 				enabled = true,
-				chance = 0.15,
+				chance = 0.05,
 			},
 			["Talk"] = {
 				enabled = true,
-				chance = 0.15,
+				chance = 0.10,
 			}
 		},
-		free_portcrystals_enabled = true
+		free_portcrystals_enabled = false
 	}
 end
 

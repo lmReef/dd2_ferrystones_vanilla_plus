@@ -12,15 +12,18 @@ Configurable in the REFramework script settings gui.
 ## Details
 
 ### Ferrystone drop rates:
-- Looting enemies: 5%
-- Gathering: 3%
-- Looting Chests: 15%
-- Quest rewards: 15%
+- Looting enemies: 2%
+- Gathering: 2%
+- Looting Chests: 5%
+- Quest rewards: 10%
 
 ### Free teleport locations:
 - Vernworth
 - Harve Village
 - Bakbattahl
+- Seafloor Shrine
+- Sacred Arbor
+- Agamen Volcanic Island
 
 
 ## Installation
@@ -30,3 +33,14 @@ Install with [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) as us
 
 ## Known Issues
 - Mods that give ferrystones unlimited uses will result in extra ferrystones being added to your inventory when teleporting to one the the permanent portcrystals
+
+
+## Changelog
+
+### 1.1
+- Ferrystone rates:
+    - Looting enemies: 5% -> 2%
+    - Gathering: 3% -> 2%
+    - Looting Chests: 15% -> 5%
+    - Quest rewards: 15% -> 10%
+- Free portcrystals: true -> false
