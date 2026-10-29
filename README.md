@@ -37,6 +37,10 @@ Install with [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) as us
 
 ## Changelog
 
+### 1.2
+- Fixed ferrystone drops not working after the Dragon's Dogma 2 4.0 update.
+- Free permanent portcrystal teleports are temporarily disabled (under maintenance).
+
 ### 1.1
 - Ferrystone rates:
     - Looting enemies: 5% -> 2%
