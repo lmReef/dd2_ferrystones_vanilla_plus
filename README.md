@@ -37,6 +37,10 @@ Install with [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) as us
 
 ## Changelog
 
+### 1.3 (WIP)
+- Work in progress: reworking free teleports for permanent portcrystals.
+- Added temporary debug logging.
+
 ### 1.2
 - Fixed ferrystone drops not working after the Dragon's Dogma 2 4.0 update.
 - Free permanent portcrystal teleports are temporarily disabled (under maintenance).
